@@ -1,0 +1,3 @@
+Coloca aqui o ficheiro de música com o nome:  musica.mp3
+(ou muda o nome/caminho em src/config.ts -> AUDIO_SRC).
+Sem este ficheiro, os controlos de música ficam desativados e avisam o visitante.
